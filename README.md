@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgearmas
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML5 and CSS3
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
 - 📫 You can reach me via LinkedIn linkedin.com/in/jorge-armas-408a46119
 
 <!---
